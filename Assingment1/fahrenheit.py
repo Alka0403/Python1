@@ -1,5 +1,5 @@
-F = float(input())
+F = float(input("Provide a temprature in Fahrenheit: "))
 
 Celsius = (F - 32) * 5/9
 
-print(Celsius)
+print("Corresponding temperature in Celsius" , Celsius)

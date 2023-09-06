@@ -1,5 +1,3 @@
-print("Write a quote: ")
-
-input1 = input()
+input1 = input("Write a quote: ")
 
 print("Quote: " + "\"" + input1 + "\"")

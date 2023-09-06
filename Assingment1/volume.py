@@ -1,6 +1,6 @@
 import math
 
-r = int(input("wrtie the radius of a sphere: "))
+r = int(input("write the radius of a sphere: "))
 
 V = 4/3 * math.pi * r ** 3
 
